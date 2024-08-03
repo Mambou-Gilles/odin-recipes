@@ -1,0 +1,1 @@
+This is the first project with Odin learning HTML and for this project we will be setting some recipes using the List, Links and other tags.
